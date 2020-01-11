@@ -7,6 +7,7 @@ public class AddDemo {
 		int b = 20;
 		int c = a + b;
 		System.out.println("The result is " + c);
+		System.out.println("hi");
 	}
 
 }
